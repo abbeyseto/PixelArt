@@ -1,18 +1,18 @@
 # Pixel Art Project by Adenle Abiodun
 
+
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Project Final Image](#project-final-image)
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+* Select the height and width of the canvas you would like to draw on
+* Click the submit button to generate the canvas
+* Click on the colorpicker to select the color you desire
+* Click on the canvas to insert the pixel of the color you have just selected
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
+## Project-Final-Image
+Below is the final output of this project. You can make a lot of drawings using this Canvas. Have fun! 
 ![Alt text](Project-Image.png?raw=true "Title")
